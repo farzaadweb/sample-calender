@@ -1,0 +1,552 @@
+{
+  "2024313": {
+    "9,10": {
+      "open_rounds": 24,
+      "suspended_round": 1
+    },
+    "10,11": {
+      "open_rounds": 3,
+      "suspended_round": 1
+    },
+    "11,12": {
+      "open_rounds": 0,
+      "suspended_round": 0
+    },
+    "12,13": {
+      "open_rounds": 12,
+      "suspended_round": 4
+    },
+    "13,14": {
+      "open_rounds": 1,
+      "suspended_round": 0
+    },
+    "14,15": {
+      "open_rounds": 91,
+      "suspended_round": 10
+    },
+    "15,16": {
+      "open_rounds": 3,
+      "suspended_round": 0
+    },
+    "16,17": {
+      "open_rounds": 5,
+      "suspended_round": 0
+    },
+    "17,18": {
+      "open_rounds": 5,
+      "suspended_round": 0
+    },
+    "18,19": {
+      "open_rounds": 1,
+      "suspended_round": 0
+    },
+    "19,20": {
+      "open_rounds": 91,
+      "suspended_round": 10
+    },
+    "20,21": {
+      "open_rounds": 4,
+      "suspended_round": 1
+    }
+  },
+  "2024314": {
+    "9,10": {
+      "open_rounds": 24,
+      "suspended_round": 1
+    },
+    "10,11": {
+      "open_rounds": 3,
+      "suspended_round": 1
+    },
+    "11,12": {
+      "open_rounds": 0,
+      "suspended_round": 0
+    },
+    "12,13": {
+      "open_rounds": 12,
+      "suspended_round": 4
+    },
+    "13,14": {
+      "open_rounds": 1,
+      "suspended_round": 0
+    },
+    "14,15": {
+      "open_rounds": 91,
+      "suspended_round": 10
+    },
+    "15,16": {
+      "open_rounds": 3,
+      "suspended_round": 0
+    },
+    "16,17": {
+      "open_rounds": 5,
+      "suspended_round": 0
+    },
+    "17,18": {
+      "open_rounds": 5,
+      "suspended_round": 0
+    },
+    "18,19": {
+      "open_rounds": 1,
+      "suspended_round": 0
+    },
+    "19,20": {
+      "open_rounds": 91,
+      "suspended_round": 10
+    },
+    "20,21": {
+      "open_rounds": 4,
+      "suspended_round": 1
+    }
+  },
+  "2024315": {
+    "9,10": {
+      "open_rounds": 8,
+      "suspended_round": 3
+    },
+    "10,11": {
+      "open_rounds": 3,
+      "suspended_round": 1
+    },
+    "11,12": {
+      "open_rounds": 0,
+      "suspended_round": 0
+    },
+    "12,13": {
+      "open_rounds": 12,
+      "suspended_round": 4
+    },
+    "13,14": {
+      "open_rounds": 1,
+      "suspended_round": 0
+    },
+    "14,15": {
+      "open_rounds": 91,
+      "suspended_round": 10
+    },
+    "15,16": {
+      "open_rounds": 3,
+      "suspended_round": 0
+    },
+    "16,17": {
+      "open_rounds": 5,
+      "suspended_round": 0
+    },
+    "17,18": {
+      "open_rounds": 5,
+      "suspended_round": 0
+    },
+    "18,19": {
+      "open_rounds": 1,
+      "suspended_round": 0
+    },
+    "19,20": {
+      "open_rounds": 91,
+      "suspended_round": 10
+    },
+    "20,21": {
+      "open_rounds": 4,
+      "suspended_round": 1
+    }
+  },
+  "2024316": {
+    "9,10": {
+      "open_rounds": 8,
+      "suspended_round": 3
+    },
+    "10,11": {
+      "open_rounds": 3,
+      "suspended_round": 1
+    },
+    "11,12": {
+      "open_rounds": 0,
+      "suspended_round": 0
+    },
+    "12,13": {
+      "open_rounds": 12,
+      "suspended_round": 4
+    },
+    "13,14": {
+      "open_rounds": 1,
+      "suspended_round": 0
+    },
+    "14,15": {
+      "open_rounds": 91,
+      "suspended_round": 10
+    },
+    "15,16": {
+      "open_rounds": 3,
+      "suspended_round": 0
+    },
+    "16,17": {
+      "open_rounds": 5,
+      "suspended_round": 0
+    },
+    "17,18": {
+      "open_rounds": 5,
+      "suspended_round": 0
+    },
+    "18,19": {
+      "open_rounds": 1,
+      "suspended_round": 0
+    },
+    "19,20": {
+      "open_rounds": 91,
+      "suspended_round": 10
+    },
+    "20,21": {
+      "open_rounds": 4,
+      "suspended_round": 1
+    }
+  },
+  "2024317": {
+    "9,10": {
+      "open_rounds": 8,
+      "suspended_round": 3
+    },
+    "10,11": {
+      "open_rounds": 3,
+      "suspended_round": 1
+    },
+    "11,12": {
+      "open_rounds": 0,
+      "suspended_round": 0
+    },
+    "12,13": {
+      "open_rounds": 12,
+      "suspended_round": 4
+    },
+    "13,14": {
+      "open_rounds": 1,
+      "suspended_round": 0
+    },
+    "14,15": {
+      "open_rounds": 91,
+      "suspended_round": 10
+    },
+    "15,16": {
+      "open_rounds": 3,
+      "suspended_round": 0
+    },
+    "16,17": {
+      "open_rounds": 5,
+      "suspended_round": 0
+    },
+    "17,18": {
+      "open_rounds": 5,
+      "suspended_round": 0
+    },
+    "18,19": {
+      "open_rounds": 1,
+      "suspended_round": 0
+    },
+    "19,20": {
+      "open_rounds": 91,
+      "suspended_round": 10
+    },
+    "20,21": {
+      "open_rounds": 4,
+      "suspended_round": 1
+    }
+  },
+  "2024318": {
+    "9,10": {
+      "open_rounds": 8,
+      "suspended_round": 3
+    },
+    "10,11": {
+      "open_rounds": 3,
+      "suspended_round": 1
+    },
+    "11,12": {
+      "open_rounds": 0,
+      "suspended_round": 0
+    },
+    "12,13": {
+      "open_rounds": 12,
+      "suspended_round": 4
+    },
+    "13,14": {
+      "open_rounds": 1,
+      "suspended_round": 0
+    },
+    "14,15": {
+      "open_rounds": 91,
+      "suspended_round": 10
+    },
+    "15,16": {
+      "open_rounds": 3,
+      "suspended_round": 0
+    },
+    "16,17": {
+      "open_rounds": 5,
+      "suspended_round": 0
+    },
+    "17,18": {
+      "open_rounds": 5,
+      "suspended_round": 0
+    },
+    "18,19": {
+      "open_rounds": 1,
+      "suspended_round": 0
+    },
+    "19,20": {
+      "open_rounds": 91,
+      "suspended_round": 10
+    },
+    "20,21": {
+      "open_rounds": 4,
+      "suspended_round": 1
+    }
+  },
+  "2024319": {
+    "9,10": {
+      "open_rounds": 8,
+      "suspended_round": 3
+    },
+    "10,11": {
+      "open_rounds": 3,
+      "suspended_round": 1
+    },
+    "11,12": {
+      "open_rounds": 0,
+      "suspended_round": 0
+    },
+    "12,13": {
+      "open_rounds": 12,
+      "suspended_round": 4
+    },
+    "13,14": {
+      "open_rounds": 1,
+      "suspended_round": 0
+    },
+    "14,15": {
+      "open_rounds": 91,
+      "suspended_round": 10
+    },
+    "15,16": {
+      "open_rounds": 3,
+      "suspended_round": 0
+    },
+    "16,17": {
+      "open_rounds": 5,
+      "suspended_round": 0
+    },
+    "17,18": {
+      "open_rounds": 5,
+      "suspended_round": 0
+    },
+    "18,19": {
+      "open_rounds": 1,
+      "suspended_round": 0
+    },
+    "19,20": {
+      "open_rounds": 91,
+      "suspended_round": 10
+    },
+    "20,21": {
+      "open_rounds": 4,
+      "suspended_round": 1
+    }
+  },
+  "2024320": {
+    "9,10": {
+      "open_rounds": 8,
+      "suspended_round": 3
+    },
+    "10,11": {
+      "open_rounds": 3,
+      "suspended_round": 1
+    },
+    "11,12": {
+      "open_rounds": 0,
+      "suspended_round": 0
+    },
+    "12,13": {
+      "open_rounds": 12,
+      "suspended_round": 4
+    },
+    "13,14": {
+      "open_rounds": 1,
+      "suspended_round": 0
+    },
+    "14,15": {
+      "open_rounds": 91,
+      "suspended_round": 10
+    },
+    "15,16": {
+      "open_rounds": 3,
+      "suspended_round": 0
+    },
+    "16,17": {
+      "open_rounds": 5,
+      "suspended_round": 0
+    },
+    "17,18": {
+      "open_rounds": 5,
+      "suspended_round": 0
+    },
+    "18,19": {
+      "open_rounds": 1,
+      "suspended_round": 0
+    },
+    "19,20": {
+      "open_rounds": 91,
+      "suspended_round": 10
+    },
+    "20,21": {
+      "open_rounds": 4,
+      "suspended_round": 1
+    }
+  },
+  "2024321": {
+    "9,10": {
+      "open_rounds": 8,
+      "suspended_round": 3
+    },
+    "10,11": {
+      "open_rounds": 3,
+      "suspended_round": 1
+    },
+    "11,12": {
+      "open_rounds": 0,
+      "suspended_round": 0
+    },
+    "12,13": {
+      "open_rounds": 12,
+      "suspended_round": 4
+    },
+    "13,14": {
+      "open_rounds": 1,
+      "suspended_round": 0
+    },
+    "14,15": {
+      "open_rounds": 91,
+      "suspended_round": 10
+    },
+    "15,16": {
+      "open_rounds": 3,
+      "suspended_round": 0
+    },
+    "16,17": {
+      "open_rounds": 5,
+      "suspended_round": 0
+    },
+    "17,18": {
+      "open_rounds": 5,
+      "suspended_round": 0
+    },
+    "18,19": {
+      "open_rounds": 1,
+      "suspended_round": 0
+    },
+    "19,20": {
+      "open_rounds": 91,
+      "suspended_round": 10
+    },
+    "20,21": {
+      "open_rounds": 4,
+      "suspended_round": 1
+    }
+  },
+  "2024322": {
+    "9,10": {
+      "open_rounds": 8,
+      "suspended_round": 3
+    },
+    "10,11": {
+      "open_rounds": 3,
+      "suspended_round": 1
+    },
+    "11,12": {
+      "open_rounds": 0,
+      "suspended_round": 0
+    },
+    "12,13": {
+      "open_rounds": 12,
+      "suspended_round": 4
+    },
+    "13,14": {
+      "open_rounds": 1,
+      "suspended_round": 0
+    },
+    "14,15": {
+      "open_rounds": 91,
+      "suspended_round": 10
+    },
+    "15,16": {
+      "open_rounds": 3,
+      "suspended_round": 0
+    },
+    "16,17": {
+      "open_rounds": 5,
+      "suspended_round": 0
+    },
+    "17,18": {
+      "open_rounds": 5,
+      "suspended_round": 0
+    },
+    "18,19": {
+      "open_rounds": 1,
+      "suspended_round": 0
+    },
+    "19,20": {
+      "open_rounds": 91,
+      "suspended_round": 10
+    },
+    "20,21": {
+      "open_rounds": 4,
+      "suspended_round": 1
+    }
+  },
+  "2024323": {
+    "9,10": {
+      "open_rounds": 8,
+      "suspended_round": 3
+    },
+    "10,11": {
+      "open_rounds": 3,
+      "suspended_round": 1
+    },
+    "11,12": {
+      "open_rounds": 0,
+      "suspended_round": 0
+    },
+    "12,13": {
+      "open_rounds": 12,
+      "suspended_round": 4
+    },
+    "13,14": {
+      "open_rounds": 1,
+      "suspended_round": 0
+    },
+    "14,15": {
+      "open_rounds": 91,
+      "suspended_round": 10
+    },
+    "15,16": {
+      "open_rounds": 3,
+      "suspended_round": 0
+    },
+    "16,17": {
+      "open_rounds": 5,
+      "suspended_round": 0
+    },
+    "17,18": {
+      "open_rounds": 5,
+      "suspended_round": 0
+    },
+    "18,19": {
+      "open_rounds": 1,
+      "suspended_round": 0
+    },
+    "19,20": {
+      "open_rounds": 91,
+      "suspended_round": 10
+    },
+    "20,21": {
+      "open_rounds": 4,
+      "suspended_round": 1
+    }
+  }
+}
